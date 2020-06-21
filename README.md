@@ -6,8 +6,8 @@ Compared the running times of different versions of merge sort algorithm on rand
 
 ## Group Members
 
-* Phanindra Pydisetty (pxp180031)
-* Sudeep Maity (sdm170530)
+* Ranjith Reddy Kommidi (rxk180004)
+* Bharath Simha Redddy R S (bxr170015)
 
 ## Take 1
 
